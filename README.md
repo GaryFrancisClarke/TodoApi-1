@@ -1,6 +1,6 @@
 # TodoApi
 
-REST Web API
+Test REST Web API
 
 ## Requirments
 
