@@ -1,6 +1,6 @@
 # TodoApi
 
-REST Web API  gary
+REST Web API  gary clarke
 
 ## Requirments
 
